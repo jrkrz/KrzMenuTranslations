@@ -1,0 +1,1 @@
+# KrzMenu Translations
